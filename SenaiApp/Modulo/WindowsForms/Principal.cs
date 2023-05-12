@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace WindowsForms
 {
-    public partial class Form1 : Form
+    public partial class Principal : Form
     {
-        public Form1()
+        public Principal()
         {
             InitializeComponent();
+        }
+
+        private void btnPoupanca_Click(object sender, EventArgs e)
+        {
+            var form = new frmPoupanca();
+            form.ShowDialog();
         }
     }
 }
