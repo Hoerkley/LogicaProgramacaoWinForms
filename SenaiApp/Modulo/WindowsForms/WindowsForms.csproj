@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmPagamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPagamentos.Designer.cs">
+      <DependentUpon>frmPagamentos.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmPoupanca.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmPagamentos.resx">
+      <DependentUpon>frmPagamentos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmPoupanca.resx">
       <DependentUpon>frmPoupanca.cs</DependentUpon>
     </EmbeddedResource>
@@ -97,6 +106,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\account_balance_FILL0_wght400_GRAD0_opsz48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undraw_Savings_re_eq4w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undraw_Savings_re_eq4w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undraw_Savings_re_eq4w %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undraw_Investment_data_re_sh9x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attach_money_FILL0_wght400_GRAD0_opsz48.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

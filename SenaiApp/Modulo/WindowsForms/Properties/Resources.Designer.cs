@@ -73,6 +73,16 @@ namespace WindowsForms.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap attach_money_FILL0_wght400_GRAD0_opsz48 {
+            get {
+                object obj = ResourceManager.GetObject("attach_money_FILL0_wght400_GRAD0_opsz48", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap payments_FILL0_wght400_GRAD0_opsz48 {
             get {
                 object obj = ResourceManager.GetObject("payments_FILL0_wght400_GRAD0_opsz48", resourceCulture);
@@ -96,6 +106,46 @@ namespace WindowsForms.Properties {
         internal static System.Drawing.Bitmap undraw_digital_currency_qpak {
             get {
                 object obj = ResourceManager.GetObject("undraw_digital_currency_qpak", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Investment_data_re_sh9x {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Investment_data_re_sh9x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Savings_re_eq4w {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Savings_re_eq4w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Savings_re_eq4w__1_ {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Savings_re_eq4w (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Savings_re_eq4w1 {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Savings_re_eq4w1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

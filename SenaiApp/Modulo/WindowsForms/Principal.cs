@@ -22,5 +22,11 @@ namespace WindowsForms
             var form = new frmPoupanca();
             form.ShowDialog();
         }
+
+        private void btnPagamentos_Click(object sender, EventArgs e)
+        {
+            var form = new frmPagamentos();
+            form.ShowDialog();
+        }
     }
 }

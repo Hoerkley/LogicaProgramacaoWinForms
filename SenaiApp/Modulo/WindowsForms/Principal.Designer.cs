@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.lblTitulo = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnAgenciasBancarias = new System.Windows.Forms.Button();
             this.btnPagamentos = new System.Windows.Forms.Button();
             this.btnPoupanca = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -45,6 +45,16 @@
             this.lblTitulo.Size = new System.Drawing.Size(301, 24);
             this.lblTitulo.TabIndex = 3;
             this.lblTitulo.Text = "Sistema de apoio gerêcial";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::WindowsForms.Properties.Resources.undraw_digital_currency_qpak;
+            this.pictureBox1.Location = new System.Drawing.Point(-1, 218);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(516, 96);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 6;
+            this.pictureBox1.TabStop = false;
             // 
             // btnAgenciasBancarias
             // 
@@ -78,6 +88,7 @@
             this.btnPagamentos.Text = "Pagamentos";
             this.btnPagamentos.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnPagamentos.UseVisualStyleBackColor = true;
+            this.btnPagamentos.Click += new System.EventHandler(this.btnPagamentos_Click);
             // 
             // btnPoupanca
             // 
@@ -95,16 +106,6 @@
             this.btnPoupanca.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnPoupanca.UseVisualStyleBackColor = false;
             this.btnPoupanca.Click += new System.EventHandler(this.btnPoupanca_Click);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::WindowsForms.Properties.Resources.undraw_digital_currency_qpak;
-            this.pictureBox1.Location = new System.Drawing.Point(-1, 218);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(516, 96);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 6;
-            this.pictureBox1.TabStop = false;
             // 
             // Principal
             // 

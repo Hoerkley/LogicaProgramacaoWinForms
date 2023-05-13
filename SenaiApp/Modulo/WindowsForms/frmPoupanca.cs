@@ -15,6 +15,13 @@ namespace WindowsForms
         public frmPoupanca()
         {
             InitializeComponent();
+        }      
+        private void btnCalcularPoupanca_Click(object sender, EventArgs e)
+        {
+            var redimento = double.Parse(txtValorDepositado.Text);
+            const double indice = 0.005;
+            lblRendimentoPoupanca.Text = (redimento * indice).ToString() + "R$";           
+            lblRendimentoPoupanca.Visible = true;            
         }
     }
 }
