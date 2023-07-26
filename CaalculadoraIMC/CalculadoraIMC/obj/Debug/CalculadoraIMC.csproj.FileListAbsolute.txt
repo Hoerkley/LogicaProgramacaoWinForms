@@ -1,0 +1,11 @@
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
+C:\Users\Aluno.DESKTOP-A146KKV\Documents\CalculadoraIMC\CaalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.frmPrincipal.resources
