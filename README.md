@@ -1,5 +1,4 @@
 # LogicaProgramacaoWinForms
 
---------------------------------------------------------------------------------------------------
 
-Repositorio para guardar projetos feitos em sala de aula 
+Repositório para guardar projetos feitos em sala de aula. 
