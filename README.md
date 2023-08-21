@@ -1,2 +1,5 @@
 # LogicaProgramacaoWinForms
-Meu primeiro repositório integrado ao Visual Studio 
+
+--------------------------------------------------------------------------------------------------
+
+Repositorio para guardar projetos feitos em sala de aula 
