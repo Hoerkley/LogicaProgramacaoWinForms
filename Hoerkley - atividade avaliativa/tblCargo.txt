@@ -1,5 +1,0 @@
-﻿codCargo;descricao
-10;Engenheiro
-11;Operador de Máquinas
-12;Inspetor de Qualidade
-13;Gerente

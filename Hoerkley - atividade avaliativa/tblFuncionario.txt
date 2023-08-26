@@ -1,9 +1,0 @@
-﻿codFuncionario;loginFuncionario;senha;nome;codCargo;salarioBase
-11;joao123;senha123;João Silva;13;5000
-12;NULL;NULL;Maria Souza;11;4000
-13;NULL;NULL;Carlos Oliveira;10;3500
-14;NULL;NULL;Ana Santos;10;3200
-15;NULL;NULL;Pedro Almeida;12;4500
-16;NULL;NULL;Fernanda Pereira;11;3800
-17;NULL;NULL;Roberto Lima;12;3200
-18;NULL;NULL;Sandra Gomes;11;4200
